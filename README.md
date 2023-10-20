@@ -1,41 +1,47 @@
+<!-- osTicket Logo -->
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>Resolving Tickets in osTicket</h1>
-In this lab I'll go through the lifecycle of a tickets from the intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<!-- Heading -->
+<h1 align="center">Resolving Tickets in osTicket</h1>
 
-<h2>Lifecycle Stages</h2>
+<!-- Introduction -->
+<p>In this lab, I'll guide you through the lifecycle of tickets from intake to resolution within the open-source help desk ticketing system, osTicket.</p>
 
-<p>
-<img src="https://i.imgur.com/ve4e1Bp.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/QX0QnUo.png" height="80%" width="80%" alt="Ticket Steps"/>
+<!-- Lifecycle Stages -->
+<h2 align="center">Lifecycle Stages</h2>
 
+<!-- Ticket Steps Images -->
+<p align="center">
+  <img src="https://i.imgur.com/ve4e1Bp.png" height="80%" width="80%" alt="Ticket Steps"/>
+  <img src="https://i.imgur.com/QX0QnUo.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
-<p>
-In order to create tickets, users have to enter the ticket portal and log in if necessary. Within the portal, the user can submit a ticket request and detail their IT related issues. Here, I have created three tickets detailing a variety of problems that can appear as tickets in a real environment. Tickets are created by using a Help Topic, a descriptive outline of the issue, and the details of the issue that are all written as if it were an email.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/hhmCi3d.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/1WaVj1u.png" height="80%" width="80%" alt="Ticket Steps"/>
-</p>
-<p>
-From the perspective of an admin, they will receive the ticket requests from their panel once they are sent. The admins can then reassign tickets to an agent or appropriate team. The severity level of the issue is determined and assigned accordingly to make sure appropriate tickets are solved within an SLA. Here, Jane viewed this ticket and assigned it to the System Administrators and changed the severity level to Emergency. 
-</p>
-<br />
+<!-- Ticket Creation -->
+<p>To create tickets, users enter the ticket portal, log in if necessary, and submit a ticket request, detailing their IT-related issues. Here, I've created three sample tickets, each addressing different problems that might occur in a real environment. Tickets are created using a Help Topic, a descriptive outline, and issue details, all formatted as if it were an email.</p>
 
-<p>
-<img src="https://i.imgur.com/sB2GRgn.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/aKsmI8c.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/GQrXwww.png" height="80%" width="80%" alt="Ticket Steps"/>
+<!-- Admin Perspective -->
+<p align="center">
+  <img src="https://i.imgur.com/hhmCi3d.png" height="80%" width="80%" alt="Ticket Steps"/>
+  <img src="https://i.imgur.com/1WaVj1u.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
-<p>
-When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people. One of these tickets are assigned to John from Jane and Jane herself was able to manage a ticket by herself. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
+
+<!-- Admin Handling -->
+<p>From an admin perspective, ticket requests are received in their panel. Admins can reassign tickets to an agent or an appropriate team, determine the severity level, and ensure timely resolution within the SLA. In the example, Jane viewed a ticket, assigned it to the System Administrators, and changed the severity level to Emergency.</p>
+
+<!-- Resolving Tickets -->
+<p align="center">
+  <img src="https://i.imgur.com/sB2GRgn.png" height="80%" width="80%" alt="Ticket Steps"/>
+  <img src="https://i.imgur.com/aKsmI8c.png" height="80%" width="80%" alt="Ticket Steps"/>
+  <img src="https://i.imgur.com/GQrXwww.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
-<br />
 
-<h2>Lessons Learned</h2>
+<!-- Communication and Documentation -->
+<p>When resolving tickets, effective communication is crucial. Collaboration with the team and affected users is essential. Tickets are assigned appropriately, and proper documentation is vital for future reference. Strong communication and documentation contribute to a successful environment.</p>
 
-The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
+<!-- Lessons Learned -->
+<h2 align="center">Lessons Learned</h2>
+
+<!-- Conclusion -->
+<p>The protocols for managing tickets may vary depending on the work environment. Quotas for resolving tickets within a certain timeframe and prioritization of tickets based on situations are common. Through building osTicket from scratch, I gained insights into how tickets function in an IT position.</p>
