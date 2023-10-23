@@ -1,7 +1,7 @@
 <!-- osTicket Logo -->
-<p align="center">
+<div align="center">
   <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+</div>
 
 <!-- Heading -->
 <h1 align="center">Resolving Tickets in osTicket</h1>
@@ -13,29 +13,29 @@
 <h2 align="center">Lifecycle Stages</h2>
 
 <!-- Ticket Steps Images -->
-<p align="center">
+<div align="center">
   <img src="https://i.imgur.com/ve4e1Bp.png" height="80%" width="80%" alt="Ticket Steps"/>
   <img src="https://i.imgur.com/QX0QnUo.png" height="80%" width="80%" alt="Ticket Steps"/>
-</p>
+</div>
 
 <!-- Ticket Creation -->
 <p>To create tickets, users enter the ticket portal, log in if necessary, and submit a ticket request, detailing their IT-related issues. Here, I've created three sample tickets, each addressing different problems that might occur in a real environment. Tickets are created using a Help Topic, a descriptive outline, and issue details, all formatted as if it were an email.</p>
 
 <!-- Admin Perspective -->
-<p align="center">
-  <img src="https://i.imgur.com/hhmCi3d.png" height="80%" width="80%" alt="Ticket Steps"/>
-  <img src="https://i.imgur.com/1WaVj1u.png" height="80%" width="80%" alt="Ticket Steps"/>
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/hhmCi3d.png" height="80%" width="80%" alt="Admin Perspective"/>
+  <img src="https://i.imgur.com/1WaVj1u.png" height="80%" width="80%" alt="Admin Perspective"/>
+</div>
 
 <!-- Admin Handling -->
 <p>From an admin perspective, ticket requests are received in their panel. Admins can reassign tickets to an agent or an appropriate team, determine the severity level, and ensure timely resolution within the SLA. In the example, Jane viewed a ticket, assigned it to the System Administrators, and changed the severity level to Emergency.</p>
 
 <!-- Resolving Tickets -->
-<p align="center">
-  <img src="https://i.imgur.com/sB2GRgn.png" height="80%" width="80%" alt="Ticket Steps"/>
-  <img src="https://i.imgur.com/aKsmI8c.png" height="80%" width="80%" alt="Ticket Steps"/>
-  <img src="https://i.imgur.com/GQrXwww.png" height="80%" width="80%" alt="Ticket Steps"/>
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/sB2GRgn.png" height="80%" width="80%" alt="Resolving Tickets"/>
+  <img src="https://i.imgur.com/aKsmI8c.png" height="80%" width="80%" alt="Resolving Tickets"/>
+  <img src="https://i.imgur.com/GQrXwww.png" height="80%" width="80%" alt="Resolving Tickets"/>
+</div>
 
 <!-- Communication and Documentation -->
 <p>When resolving tickets, effective communication is crucial. Collaboration with the team and affected users is essential. Tickets are assigned appropriately, and proper documentation is vital for future reference. Strong communication and documentation contribute to a successful environment.</p>
